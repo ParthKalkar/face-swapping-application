@@ -27,9 +27,11 @@ This product can be used for learning and understanding different concepts of co
 4. Flask
 
 ## Input
-* Face 1:![image](https://user-images.githubusercontent.com/50231750/202659679-a6933162-8c48-4a81-b05e-723d861b9e47.png)
+* Face 1:
+![image](https://user-images.githubusercontent.com/50231750/202659679-a6933162-8c48-4a81-b05e-723d861b9e47.png)
 
-* Face 2: ![image](https://user-images.githubusercontent.com/50231750/202659731-00c1e8f7-e123-4e34-a9f0-cb91da559f77.png)
+* Face 2: 
+![image](https://user-images.githubusercontent.com/50231750/202659731-00c1e8f7-e123-4e34-a9f0-cb91da559f77.png)
 
 ## Output
 ![image](https://user-images.githubusercontent.com/50231750/202659806-623b577f-2479-4623-a670-82eb600a842c.png)
