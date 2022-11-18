@@ -26,6 +26,12 @@ This product can be used for learning and understanding different concepts of co
 3. Dlib
 4. Flask
 
+## Interface
+![Screenshot from 2022-11-18 12-21-29](https://user-images.githubusercontent.com/50231750/202670325-035f9086-6bfa-451a-a544-7b5c179abbf9.png)
+
+## Upload Images
+![Screenshot from 2022-11-18 12-21-56](https://user-images.githubusercontent.com/50231750/202670404-9ccc7205-8887-4c73-b89b-b7feb9a0e610.png)
+
 ## Input
 * Face 1:
 ![image](https://user-images.githubusercontent.com/50231750/202659679-a6933162-8c48-4a81-b05e-723d861b9e47.png)
@@ -35,6 +41,9 @@ This product can be used for learning and understanding different concepts of co
 
 ## Output
 ![image](https://user-images.githubusercontent.com/50231750/202659806-623b577f-2479-4623-a670-82eb600a842c.png)
+
+## App Output
+![Screenshot from 2022-11-18 12-22-09](https://user-images.githubusercontent.com/50231750/202670500-9a570a88-8eea-41bd-ac5c-1a7a6ba5941d.png)
 
 ## Conclusion
 We started with downloading the pretrained model for face landmark and download the images from the internet on which we will work. Next we used CV2 and Dlib for preprocessing the images and used different functionalities to make reach to the end which is swapping the face of destination image with source image.
